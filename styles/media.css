@@ -110,6 +110,15 @@
         width: 236px;
     }
 
+    .container .section-3 .meet-a-partner .person-cards .person-1__icon-1,
+    .container .section-3 .meet-a-partner .person-cards .person-2__icon-2,
+    .container .section-3 .meet-a-partner .person-cards .person-3__icon-3,
+    .container .section-3 .meet-a-partner .person-cards .person-4__icon-4 {
+        position: absolute;
+        top: 88px;
+        left: 146px;
+    }
+
     .container .section-3 .meet-a-partner .person-cards .person-1__name,
     .container .section-3 .meet-a-partner .person-cards .person-2__name,
     .container .section-3 .meet-a-partner .person-cards .person-3__name,
